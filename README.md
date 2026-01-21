@@ -12,7 +12,7 @@ The course will start the first week of February, with Week #1 resources being r
 
 ## Resources
 
-The pre-course learning materials are now [available](/course/00_GitHub/index.qmd), providing walkthroughs of how to set up your workstations with the required software, and exercises to help you become more familiar with the various teaching and coding resources we will be using throughout the course. 
+The pre-course learning materials are now [available]([/course/00_GitHub/index.qmd](https://umgcccfcsr.github.io/CytometryInR/course/00_GitHub/)), providing walkthroughs of how to set up your workstations with the required software, and exercises to help you become more familiar with the various teaching and coding resources we will be using throughout the course. 
 
 Narrated versions of the walk through materials are now also available via [YouTube](https://www.youtube.com/@CytometryInR)
 
@@ -33,5 +33,5 @@ All three livestreams will be recorded and available on YouTube immediately afte
 
 ## Discussion Forum
 
-We will be using the Cytometry in R  [Discussions page](https://github.com/UMGCCCFCSR/CytometryInR/discussions) as a community forum, and a place to ask questions, celebrate wins, and provide feedback. After creating a a [GitHub](/course/00_GitHub/index.qmd) account, pleae go introduce yourself. 
-For additional details, please visit our [website](https://umgccfcss.github.io/CytometryInR/)
+We will be using the Cytometry in R  [Discussions page](https://github.com/UMGCCCFCSR/CytometryInR/discussions) as a community forum, and a place to ask questions, celebrate wins, and provide feedback. After creating a a [GitHub](https://umgcccfcsr.github.io/CytometryInR/course/00_GitHub/) account, pleae go introduce yourself. 
+For additional details, please visit our [website](https://umgcccfcsr.github.io/CytometryInR/)
